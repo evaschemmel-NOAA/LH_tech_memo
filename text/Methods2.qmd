@@ -1,0 +1,27 @@
+---
+title: Methods
+---
+
+# Otolith Preparation
+Each individual otolith is mounted and transversely sectioned, perpendicular to the sulcus acusticus using a Buhler Isomet Low Speed Saw, to a thickness that was species-specific and tested for annuli clarity.  Otoltihs were sectioned to between 0.2 and 0.25 mm, dipped in 2.5.5 HCl solution, rinsed, and cover slipped.
+
+Sectioned otoliths were examined using reflected light where dark opaque bands represent narrower and presumably slower growth bands and light translucent marks represent wider and presumably faster growth zones. Opaque bands were counted using a stereomicroscope, against a black background and under two obliquely reflecting light sources (one on each side of the microscope stage, at low angles), at 40-80x magnification. The opaque bands were counted across a consistent axis along the ventral portion of the section, from the primordium to the otolith margin. 
+
+#Identification of First Annual Mark
+Small otoliths that contained zero to one annuali were further processed for daily increment analysis to determine the location of the first annual mark. These otoliths were polished using progressively finer (30, 9, 3, 0.3 µm) lapping film until daily increments were clearly visible. Daily otolith increments were counted by one reader using an Olympus BX51compound microscope (magnification range 200–600×). Increments were counted from the core to each of the potential annual marks. 
+
+# Edge Analysis
+Growth increment periodicity was assessed using edge analysis. A simple edge type classification was used: 1 = opaque zone on the edge of the otolith section; 2 = translucent zone on the edge of the otolith section. The edge type was recorded for every otolith. A proportion of edge type was plotted for every month to validate increment periodicity (refer to Taylor and Cruz 2017).
+
+# Otolith Weight to Age Analysis
+Otolith weight was compared to estimated ages and the coefficient of determination was calculated as a proxy of the accuracy of aging criteria following (Lou et al. 2005, Pilling et al. 2003; O’Malley et al. 2016).
+
+# Aging Criteria
+Ageing criteria were developed with two readers by examining 100 thin (<0.25 mm) sectioned otoliths from the Mariana Islands. The two readers reviewed the otoliths and come to agreement on the location of the first annual mark prior to reading. The agers review the samples and image a subset of the reference set of otoliths to get a representative sample across the age range. The imaged reference set is used to calibrate the readers before each read. Blind readings of the sectioned otoliths were done by two readers. 
+
+Between reader agreement was assessed using the coefficient of variation and average percent error. The coefficient of variation (CV) is the ratio of the standard deviation over the mean (Chang, 1982). A mean CV was estimated by averaging the individual CV of all aged fish from Marina Island, and separately for all fish age from Hawaii. The average percent error (APE) was assessed from all aged fish in the Marianas Island sample and separately for all aged fish in the Hawaii sample. The index of average percent agreement (IAPE; Beamish and Fournier 1981) was determined by averaging the average percent error across all fish aged from Mariana Islands.
+
+
+
+
+

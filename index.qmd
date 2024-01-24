@@ -1,6 +1,6 @@
 # Citation {.unnumbered}
 
-EE Holmes, 2022. Quarto Report Template. Northwest Fisheries Science Center.
+E Schemmel, 2024. Ageing Criteria Template. Pacific Islands Science Center.
 
 
 ```{=openxml}

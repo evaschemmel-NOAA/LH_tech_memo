@@ -3,41 +3,33 @@ project:
   output-dir: docs
 
 book:
-  title: An example tech memo
-  subtitle: The subtitle
+  title: An example ageing criteria report
+  subtitle: Pristipomoides zonatus
   date: January 2023
   downloads: [pdf, docx]
   author:
-  - name: Jane Doe
+  - name: Eva Schemmel
     affiliations:
-      - id: nwfsc-cb
-        name: Northwest Fisheries Science Center
-        department: Conservation Biology Division
-        address: 
-          - 2725 Montlake Boulevard East
-          - Seattle, Washington 98112
-      - id: uw-safs
-        name: University of Washington
-        department: School of Aquatic and Fisheries Sciences
-  - name: Eva Nováková
+      - id: PIFSC-LHP
+        name: Pacific Islands Fisheries Science Center
+        department: Life History Program
+        address:
+          - 1845 Wasp Boulevard
+          - Honolulu, HI 96818
+  - name: Kristen Dahl
     affiliations:
-      - ref: uw-safs
-  - name: Matti Meikäläinen
-    email: matti@jy.fi
-    affiliations:
-      - name: University of Kemijärvi
-        department: Department of Biological and Environmental Science
-        address: Kylmäniementie 79, 98120, KEMIJÄRVI, Finland
-  - name: Ashok Kumar
-    affiliations:
-      - name: University of Minnesota
-        department: Department of Mathematics
-      - name: HØnefoss Institute
-        address: R Tradição 35, Portugal 2950-726
+      - id: PIFSC-LHP
+        name: Pacific Islands Fisheries Science Center
+        department: Life History Program
+        address:
+          - 1845 Wasp Boulevard
+          - Honolulu, HI 96818
   chapters:
     - index.qmd
-    - text/Chapter1.qmd
-    - text/conclusion.qmd
+    - text/Introduction.qmd
+    - text/Methods2.qmd
+    - text/Results3.qmd
+    - text/Discussion4.qmd
     - text/references.qmd
 
   site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
@@ -45,7 +37,7 @@ book:
   repo-actions: [edit, source, issue]
   search: true
 
-bibliography: 
+bibliography:
   - text/references.bib
 
 execute:

@@ -1,0 +1,9 @@
+---
+title: Introduction
+---
+
+Pristipomoides zonatus is a deepwater snapper found in subtropical and tropical waters throughout the Indo-Pacific in rocky habitats from 70-300 meters (fishbase.org). The largest maximum length recorded is 57.7 cm (Kamikawa et al. 2015). P. zonatus is one of the deep water snappers in bottomfish fisheries in the central Pacific.
+
+Otoliths are commonly used to estimate and in boney fishes. Growth can be assessed by counting the annual growth bands, with dark zones corresponding to slower growth during winter months and light zones corresponding to faster growth during summer months. However, growth can be variable and marks can appear on the otolith that may not correspond to annual marks (references). Therefore, ageing criteria and validation is warranted (Newman et al 2015). Age validation can be achieved in multiple ways such as using marginal increment analysis, edge analysis, and first increment analysis using daily growth increments (Newman et al 2017; O’Malley et al 2016). Additional validation can come from bomb radiocarbon dating (14C), and uses a reference signal of 14C created from thermonuclear testing in the 1950s and 1960s to estimate the age of individuals from material taken from the otolith core (Andrews et al 2012; Andrews 2016; Newman et al 2017).
+
+Here we follow ageing criteria and validation methods have been developed for deepwater snappers (Newman et al. 2017; O’Malley et al 2016) to determine the feasibility of ageing P. zonatus. To develop ageing criteria, two readers examined X otoliths from Mariana Islands. We verified the location of the first annuali using daily counts. We then estimated the age precision (between-reader agreement, average percent error, and coefficient of variation). Prior work has been done for P. zonatus from Hawaii to estimate ages using bomb radiocarbon dating (Andrews 2019). 
