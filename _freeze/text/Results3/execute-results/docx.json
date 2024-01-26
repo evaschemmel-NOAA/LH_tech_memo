@@ -1,0 +1,20 @@
+{
+  "hash": "b1074a593fe3d87d0b9c30e31378a27e",
+  "result": {
+    "markdown": "---\ntitle: Results\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\n\n## Otolith Sections and Reference Images\nA total of 48 otoliths were used in the reference collection and aged by two readers. \n\nIdentification of first annuli was attempted using DGI but counts were inconsistent. \n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![P. zonatus section otolith with 2 annuali visible.](../images/Otoliths/PRZO_CMSLT-2442_annuli.tif){#fig-map fig-align='center'}\n:::\n:::\n\n\n## Edge Analysis\n\n\n\n## Otolith Weight to Age Analysis\n\n\n## Ageing Criteria\nPrecision \n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n    n validn R PercAgree   ASD   ACV    AAD  APE\n 1315     48 2     43.75 0.604 12.25 0.4271 8.66\n-4 -3 -2 -1  0  1  2  3 \n 2  0  8 27 44 10  2  6 \n```\n:::\n:::\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n      symTest df    chi.sq          p\n1     McNemar  1  3.000000 0.08326452\n2 EvansHoenig  4  9.355556 0.05280138\n3      Bowker 13 19.500000 0.10839813\n```\n:::\n\n::: {.cell-output-display}\n![Age-bias plots of Reader 1 and Reader 2. Each error bar represents the 95% confidence interval.)](Results3_files/figure-docx/fig-bias plot-1.png){#fig-bias plot-1}\n:::\n\n::: {.cell-output-display}\n![Age-bias plots of Reader 1 and Reader 2. Each error bar represents the 95% confidence interval.)](Results3_files/figure-docx/fig-bias plot-2.png){#fig-bias plot-2}\n:::\n:::\n",
+    "supporting": [
+      "Results3_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

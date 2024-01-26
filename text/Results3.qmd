@@ -2,15 +2,17 @@
 title: Results
 ---
 
-## test
 
-```{r warning=FALSE, echo=FALSE, message=FALSE}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 source(here::here("functions", "agebias.R"))
 source(here::here("functions", "agebias_plot.R"))
 ```
 
-```{r data}
+```{r}
 data_title <- "P. zonatus ages"
 data_id <- "Age_PRZO_temp"
 reader1<-"PRZO_age_redone_1"
@@ -25,7 +27,7 @@ A total of 48 otoliths were used in the reference collection and aged by two rea
 
 Identification of first annuli was attempted using DGI but counts were inconsistent. 
 
-```{r image1}
+```{r}
 #| label: fig-map
 #| fig-cap: "P. zonatus section otolith with 2 annuali visible." 
 #| fig-width: 2
@@ -41,24 +43,17 @@ knitr::include_graphics(here::here("images/Otoliths", "PRZO_CMSLT-2442_annuli.ti
 ## Otolith Weight to Age Analysis
 
 
-```{r plot}
-#| label: fig-oto weight plot
-#| fig-cap: " ")
-
-```
-
 ## Ageing Criteria
 Precision 
 
-```{r bias}
+```{r}
 #| label: bias table
-#| tab-cap: "Need to make into cleaner table.")
 agebias(data_title, data_id, x=reader1, y=reader2)
 ```
 
-```{r plot}
+```{r}
 #| label: fig-bias plot
-#| fig-cap: "Age-bias plots of Reader 1 and Reader 2. Each error bar represents the 95% confidence interval. ")
+#| fig-cap: Age-bias plots of Reader 1 and Reader 2. Each error bar represents the 95% confidence interval.)
 agebias_plot(data_title, data_id, x=reader1, y=reader2)
 ```
 
